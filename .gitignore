@@ -1,6 +1,6 @@
 **/.DS_Store
 .qmake.*
-*.app/*
+**/*.app
 
 # C++ objects and libs
 
